@@ -115,7 +115,6 @@ Table of Contents
 |   调用链     |      [Jaeger Documentation](https://www.jaegertracing.io/docs/1.26/)                                                  |
 |   存储     |     [Etcd](https://time.geekbang.org/column/intro/391?tab=catalog)                                                  |
 |    网关    |       [Tyk Open Source](https://tyk.io/docs/apim/open-source/)                                                |
-                          |
 |    消息队列    |       [Apache Kafka实战](https://book.douban.com/subject/30221096/)                                                |
 |    ServiceMesh    |            [云原生服务网格Istio：原理、实践、架构与源码解析](https://book.douban.com/subject/34438220/)                                           |
 |   服务发现     |    [Consul Documentation](https://www.consul.io/docs)                                                   |
