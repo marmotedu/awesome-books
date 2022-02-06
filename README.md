@@ -107,7 +107,7 @@ Table of Contents
 | 类别   | 书名                                                  |
 | ------ | ----------------------------------------------------- |
 | 微服务 | [微服务设计](https://book.douban.com/subject/26772677 |
-|   Docker     |  [《Docker 技术入门与实战》（第 3 版）](https://book.douban.com/subject/30329430/)、[《Docker ——容器与容器云》（第 2 版）](https://book.douban.com/subject/26894736/)                                                      |
+|   Docker     |  [《Docker 技术入门与实战》（第 3 版）](https://book.douban.com/subject/30329430/)、[《Docker容器与容器云》（第 2 版）](https://book.douban.com/subject/26894736/)                                                      |
 |    Kubernetes    |        [Kubernetes权威指南：从Docker到Kubernetes实践全接触（第4版）](https://book.douban.com/subject/33444476/)                                               |
 |     Serverless   |    [Knative Documentation](https://knative.dev/docs/)                                                     |
 |   KVM     |   [KVM 虚拟化技术 : 实战与原理解析](https://book.douban.com/subject/25743939/)                                                    |
