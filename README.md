@@ -102,6 +102,22 @@ Table of Contents
          * [微服务系列推荐](#微服务系列推荐)
          * [云原生系列推荐](#云原生系列推荐)
 
+## 云原生技术栈书籍推荐
+
+| 类别   | 书名                                                                                                                                                                 |                                                                                                          |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 微服务 | [微服务设计](https://book.douban.com/subject/26772677/)                                                                                                              |                                                                                                          |
+| Docker | [《Docker 技术入门与实战》（第 3 版）](https://book.douban.com/subject/30329430/)、[《Docker ——容器与容器云》（第 2 版）](https://book.douban.com/subject/26894736/) |                                                                                                          |
+|        | Kubernetes                                                                                                                                                           | [Kubernetes权威指南：从Docker到Kubernetes实践全接触（第4版）](https://book.douban.com/subject/33444476/) |
+|        | Knative                                                                                                                                                              | [Knative Documentation](https://knative.dev/docs/)                                                       |
+|        | Prometheus                                                                                                                                                           | [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)                            |
+|        | Jaeger                                                                                                                                                               | [Jaeger Documentation](https://www.jaegertracing.io/docs/1.26/)                                          |
+|        | KVM                                                                                                                                                                  | [KVM 虚拟化技术 : 实战与原理解析](https://book.douban.com/subject/25743939/)                             |
+|        | Etcd                                                                                                                                                                 | [Etcd](https://time.geekbang.org/column/intro/391?tab=catalog)                                           |
+|        | 网关                                                                                                                                                                 | [Tyk Open Source](https://tyk.io/docs/apim/open-source/)                                                 |
+|        | Consul                                                                                                                                                               | [Consul Documentation](https://www.consul.io/docs)                                                       |
+|        | Cilium                                                                                                                                                               | [Cilium Documentation](https://docs.cilium.io/)                                                          |
+
 ## 珍藏书籍推荐
 
 **每种分类推荐 1 ~ 5 本需要珍藏书籍：**
